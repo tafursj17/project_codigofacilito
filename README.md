@@ -11,18 +11,18 @@
 #### Activar ambiente virtual:
   - .env\Scripts\activate
 
-### Instalar requerimientos:
+#### Instalar requerimientos:
   - pip install -r requirements.txt
   
-### Crear archivo llamado .env y agregar la siguiente informacion:
+#### Crear archivo llamado .env y agregar la siguiente informacion:
   - DATABASE_NAME= nombre de la base de datos
   - DATABASE_USER= usuario para la base de datos
   - DATABASE_PASSWORD= contraseña de el usuario ingresado
   
-### Crear migraciones:
+#### Crear migraciones:
   - python manage.py migrate
  
-### Ejecutar servidor:
+#### Ejecutar servidor:
   - python manage.py runserver
 
 <p align="left">
