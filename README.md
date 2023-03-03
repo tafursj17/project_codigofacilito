@@ -13,6 +13,11 @@
 ### Instalar requerimientos:
   - pip install -r requirements.txt
   
+### Crear archivo llamado .env y agregar la siguiente informacion:
+  - DATABASE_NAME= nombre de la base de datos
+  - DATABASE_USER= usuario para la base de datos
+  - DATABASE_PASSWORD= contraseña de el usuario ingresado
+  
 ### Crear migraciones:
   - python manage.py migrate
  
