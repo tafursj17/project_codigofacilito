@@ -1,7 +1,8 @@
 # Task Manager
-<p align="left">
-<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-</p>
+
+## Link proyecto en servidor:
+  - http://159.89.53.143
+
 ## Instalación:
 
 #### Crear ambiente virtual
@@ -23,3 +24,7 @@
  
 ### Ejecutar servidor:
   - python manage.py runserver
+
+<p align="left">
+<img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
